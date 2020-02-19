@@ -16,6 +16,11 @@
 Pict. Link: [https://www.knime.com/](https://www.knime.com/)
 
 * Knime Workflow : Node & Workflow
+   * More than 2,000 modules node
+   * Hundreds of ready-to-run workflow examples
+   * Comprehensive range of integrated tools
+   * Widest choice of advanced algorithms available
+   -> Free Code Data Science for any data scientist
 
 ![knimepict2](https://user-images.githubusercontent.com/27078712/74828815-58bdc480-5342-11ea-973a-b8a85402adf5.png)
 
