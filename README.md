@@ -44,7 +44,9 @@ Pict. Link: [https://www.knime.com/knime-introductory-course](https://www.knime.
 
 Pict. Link: [https://www.knime.com/getting-started](https://www.knime.com/getting-started)
 
-## 3-Data Access
+## 3-Data Access :
+
+
 
 ## 4-ETL and Data Manipulation
 
@@ -53,6 +55,12 @@ Pict. Link: [https://www.knime.com/getting-started](https://www.knime.com/gettin
 ## 6-Data Visualization
 
 ## 7-Exporting Data
+
+## 8-Use Case Workflow Demo :
+
+* ssd
+* dsds
+* sdsdsd
 
 
 
