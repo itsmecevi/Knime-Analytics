@@ -1,8 +1,17 @@
 # Knime-Analytics
 
 
+## 1-
 
-## 1-Knime Overview
+
+## 1-Analytics 101
+
+![analytics](https://user-images.githubusercontent.com/27078712/74884048-de725c00-53a4-11ea-8c8c-41573e655b6f.jpg)
+Pict. Link: [https://blogs.gartner.com/jason-mcnellis/2019/11/05/youre-likely-investing-lot-marketing-analytics-getting-right-insights/](https://blogs.gartner.com/jason-mcnellis/2019/11/05/youre-likely-investing-lot-marketing-analytics-getting-right-insights/)
+
+
+
+## 2-Knime Overview
 
 * Knime Open for Innovation : End to End Data Science
 
