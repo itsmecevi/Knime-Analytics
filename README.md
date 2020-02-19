@@ -44,4 +44,16 @@ Pict. Link: [https://www.knime.com/knime-introductory-course](https://www.knime.
 
 Pict. Link: [https://www.knime.com/getting-started](https://www.knime.com/getting-started)
 
+## 3-Data Access
+
+## 4-ETL and Data Manipulation
+
+## 5-Analytics
+
+## 6-Data Visualization
+
+## 7-Exporting Data
+
+
+
 
