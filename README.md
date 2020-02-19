@@ -20,7 +20,8 @@ Pict. Link: [https://www.knime.com/](https://www.knime.com/)
    * Hundreds of ready-to-run workflow examples
    * Comprehensive range of integrated tools
    * Widest choice of advanced algorithms available
-   -> Free Code Data Science for any data scientist
+   * Update: 3620 Nodes, 159 Components/metanodes, 1883 Workflows, 194 Extensions -> [https://hub.knime.com/](https://hub.knime.com/)
+   -> Free Code Data Science for any Data Scientist
 
 ![knimepict2](https://user-images.githubusercontent.com/27078712/74828815-58bdc480-5342-11ea-973a-b8a85402adf5.png)
 
