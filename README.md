@@ -1,9 +1,6 @@
 # Knime-Analytics
 
 
-## 1-
-
-
 ## 1-Analytics 101
 
 ![analytics](https://user-images.githubusercontent.com/27078712/74884048-de725c00-53a4-11ea-8c8c-41573e655b6f.jpg)
