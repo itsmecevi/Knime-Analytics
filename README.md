@@ -8,7 +8,7 @@ Pict. Link: [https://blogs.gartner.com/jason-mcnellis/2019/11/05/youre-likely-in
 
 
 
-## 2-Knime Overview & Workshop
+## 2-Knime Overview
 
 * Knime Open for Innovation : End to End Data Science
 
@@ -45,9 +45,12 @@ Pict. Link: [https://www.knime.com/knime-introductory-course](https://www.knime.
 Pict. Link: [https://www.knime.com/getting-started](https://www.knime.com/getting-started)
 
 
-* Discover KNIME Workshop : [Click Here](https://bit.ly/2SZCrcb)
 
-## 3-Data Access :
+## 3-Discover KNIME Worksho
+* [Click Here](https://bit.ly/2SZCrcb)
+
+
+## 4-Data Access :
 
 * READ: 
 
