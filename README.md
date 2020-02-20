@@ -4,11 +4,12 @@
 ## 1-Data Science Step : CRISP DM Methode (Cross Industry Standard Process for Data Mining)
 
 ![crisp-dm](https://user-images.githubusercontent.com/27078712/74919234-de05af80-53fc-11ea-8b58-dca779ab8595.png)
+
 Pict. Link: [Medium](https://medium.com/@thecodingcookie/cross-industry-process-for-data-mining-286c407132d0)
 
 
 
-## 1-Data Science Step (Data Oriented)
+## 1-Data Science Step (Data Oriented) :
 
 * Data Preparation
 * Data Cleansing
