@@ -97,21 +97,26 @@ Pict. Link: [https://www.knime.com/getting-started](https://www.knime.com/gettin
 * Column Filter
 * Column Rename
 * Joiner
-* 
+* Sorter
+* Concatenate
+* Missing Value
+* String Manipulation
 
 
-## 7-Analytics
+## 7-Analytics & Machine Learning 
 
-### 7a-Analyze
+* Decision Tree
+* K-Means Clustering
+* Logistic Regression
+* Scorer
+* Numeric Scorer
+* ROC Curve
+* SUPERVISED LEARNING :
 
-
-## 7b-Data Visualization
-
-
-### 7c-Machine Learning
-
-
-
+    * CLASSIFICATION :
+     * Naive Bayes
+     * Support Vector Machine (SVM)
+     * k-Nearest Neighbor (kNN)
 
 
 ## 8-Data Visualization / Explore
