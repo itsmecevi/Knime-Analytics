@@ -45,8 +45,7 @@ Pict. Link: [https://www.knime.com/knime-introductory-course](https://www.knime.
 Pict. Link: [https://www.knime.com/getting-started](https://www.knime.com/getting-started)
 
 
-* Discover KNIME Workshop : 
-[Click Here(https://static1.squarespace.com/static/587dabcc20099efd7ceaedcc/t/59e5b9e72aeba56108af85a6/1508227585019/DiscoverKNIME_201709.pdf)
+* Discover KNIME Workshop : [Click Here](https://bit.ly/2SZCrcb)
 
 ## 3-Data Access :
 
