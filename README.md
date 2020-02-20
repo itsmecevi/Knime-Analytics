@@ -84,11 +84,32 @@ Pict. Link: [https://www.knime.com/getting-started](https://www.knime.com/gettin
 
 
 
-## 6-ETL and Data Manipulation
+## 6-Transform and Data Manipulation
+
+* Group by
+* Pivoting
+* Rule Engine
+* Partitioning
+* Row Filter
+* Math Formula
+* String to Data&Time
+* Cell Spliter
+* Column Filter
+* Column Rename
+
 
 ## 7-Analytics
 
-## 8-Data Visualization
+### 7a-Analyze
+
+
+### 7b-Machine Learning
+
+
+
+
+
+## 8-Data Visualization / Explore
 
 ## 9-Exporting Data
 
