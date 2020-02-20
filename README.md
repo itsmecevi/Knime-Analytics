@@ -23,7 +23,7 @@ Pict. Link: [Medium](https://medium.com/@thecodingcookie/cross-industry-process-
 ## 3-Analytics 101
 
 ![analytics](https://user-images.githubusercontent.com/27078712/74884048-de725c00-53a4-11ea-8c8c-41573e655b6f.jpg)
-Pict. Link: [https://blogs.gartner.com/jason-mcnellis/2019/11/05/youre-likely-investing-lot-marketing-analytics-getting-right-insights/](https://blogs.gartner.com/jason-mcnellis/2019/11/05/youre-likely-investing-lot-marketing-analytics-getting-right-insights/)
+Pict. Link: [Gartner Blog](https://gtnr.it/2ueQyBZ)
 
 
 
@@ -96,6 +96,8 @@ Pict. Link: [https://www.knime.com/getting-started](https://www.knime.com/gettin
 * Cell Spliter
 * Column Filter
 * Column Rename
+* Joiner
+* 
 
 
 ## 7-Analytics
@@ -103,7 +105,10 @@ Pict. Link: [https://www.knime.com/getting-started](https://www.knime.com/gettin
 ### 7a-Analyze
 
 
-### 7b-Machine Learning
+## 7b-Data Visualization
+
+
+### 7c-Machine Learning
 
 
 
