@@ -9,7 +9,7 @@ Pict. Link: [Medium](https://medium.com/@thecodingcookie/cross-industry-process-
 
 
 
-## 1-Data Science Step (Data Oriented) :
+## 2-Data Science Step (Data Oriented) :
 
 * Data Preparation
 * Data Cleansing
@@ -20,14 +20,14 @@ Pict. Link: [Medium](https://medium.com/@thecodingcookie/cross-industry-process-
 * Deployment
 
 
-## 1-Analytics 101
+## 3-Analytics 101
 
 ![analytics](https://user-images.githubusercontent.com/27078712/74884048-de725c00-53a4-11ea-8c8c-41573e655b6f.jpg)
 Pict. Link: [https://blogs.gartner.com/jason-mcnellis/2019/11/05/youre-likely-investing-lot-marketing-analytics-getting-right-insights/](https://blogs.gartner.com/jason-mcnellis/2019/11/05/youre-likely-investing-lot-marketing-analytics-getting-right-insights/)
 
 
 
-## 2-Knime Overview
+## 4-Knime Overview
 
 * Knime Open for Innovation : End to End Data Science
 
@@ -63,34 +63,36 @@ Pict. Link: [https://www.knime.com/knime-introductory-course](https://www.knime.
 
 Pict. Link: [https://www.knime.com/getting-started](https://www.knime.com/getting-started)
 
+* Getting started with KNIME Analytics Platform
 
 
-## 3-Discover KNIME Workshop
+
+## 4-Discover KNIME Workshop
 * [Click Here](https://bit.ly/2SZCrcb)
 
 
-## 4-Cheat Sheet: Building a KNIME Workflow for Beginners
 
-* Getting started with KNIME Analytics Platform
-* Read : Data Access
-* Transform
-* 
-
-## 4-Data Access :
+## 5-Data Access :
 
 * READ: 
+   * File Reader
+   * Excel Reader
+   * Table Creator
+   * Model Reader
+   * Tablea Reader
+   * Google Sheet Reader
 
 
 
-## 4-ETL and Data Manipulation
+## 6-ETL and Data Manipulation
 
-## 5-Analytics
+## 7-Analytics
 
-## 6-Data Visualization
+## 8-Data Visualization
 
-## 7-Exporting Data
+## 9-Exporting Data
 
-## 8-Use Case Workflow Demo :
+## 10-Use Case Workflow Demo :
 
 * ssd
 * dsds
