@@ -1,6 +1,24 @@
 # Knime-Analytics
 
 
+## 1-Data Science Step : CRISP DM Methode (Cross Industry Standard Process for Data Mining)
+
+![crisp-dm](https://user-images.githubusercontent.com/27078712/74919234-de05af80-53fc-11ea-8b58-dca779ab8595.png)
+Pict. Link: [Medium](https://medium.com/@thecodingcookie/cross-industry-process-for-data-mining-286c407132d0)
+
+
+
+## 1-Data Science Step (Data Oriented)
+
+* Data Preparation
+* Data Cleansing
+* Exploratory Data Analysis (EDA) : Univariate, Bivariate, Multivariate
+* Feature Engineering
+* Modeling
+* Evaluation
+* Deployment
+
+
 ## 1-Analytics 101
 
 ![analytics](https://user-images.githubusercontent.com/27078712/74884048-de725c00-53a4-11ea-8c8c-41573e655b6f.jpg)
@@ -49,6 +67,13 @@ Pict. Link: [https://www.knime.com/getting-started](https://www.knime.com/gettin
 ## 3-Discover KNIME Workshop
 * [Click Here](https://bit.ly/2SZCrcb)
 
+
+## 4-Cheat Sheet: Building a KNIME Workflow for Beginners
+
+* Getting started with KNIME Analytics Platform
+* Read : Data Access
+* Transform
+* 
 
 ## 4-Data Access :
 
