@@ -46,7 +46,7 @@ Pict. Link: [https://www.knime.com/getting-started](https://www.knime.com/gettin
 
 
 
-## 3-Discover KNIME Worksho
+## 3-Discover KNIME Workshop
 * [Click Here](https://bit.ly/2SZCrcb)
 
 
