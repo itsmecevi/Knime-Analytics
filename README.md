@@ -161,8 +161,11 @@ Pict. Link: [https://www.knime.com/getting-started](https://www.knime.com/gettin
 
 ### Change log update
 
+* 19.02.2020
 * 20.02.2020
 * 21.02.2020
+* 22.02.2020
+
 
 
 
