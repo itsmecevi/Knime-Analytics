@@ -157,5 +157,13 @@ Pict. Link: [https://www.knime.com/getting-started](https://www.knime.com/gettin
 * sdsdsd
 
 
+## Extras :
+
+### Change log update
+
+* 20.02.2020
+* 21.02.2020
+
+
 
 
