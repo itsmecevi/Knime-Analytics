@@ -111,12 +111,39 @@ Pict. Link: [https://www.knime.com/getting-started](https://www.knime.com/gettin
 * Scorer
 * Numeric Scorer
 * ROC Curve
-* SUPERVISED LEARNING :
+* 
+### 7x-SUPERVISED LEARNING :
 
-    * CLASSIFICATION :
-     * Naive Bayes
-     * Support Vector Machine (SVM)
-     * k-Nearest Neighbor (kNN)
+* CLASSIFICATION :
+   * Naive Bayes
+   * Support Vector Machine (SVM)
+   * k-Nearest Neighbor (kNN)
+   
+* NUMERIC PREDICTION & CLASSIFICATION :
+   * Artificial Neural Networks (ANN,NN)
+   * Deep Learning
+   * Generalized Linear Model (GLM)
+   
+ * TIME SERIES ANALYSIS :
+   * Auto-Regressive Integrated Moving Average (ARIMA)
+   * ML-based TSA
+   
+ * ENSEMBLE LEARNING :
+   * 
+   * 
+   
+### 7x-UNSUPERVISED LEARNING
+
+* CLUSTERING :
+   * K-Means Clustering
+   * Hierarchical Clustering
+   * DBSCAN
+   * Self-Organizing Tree Algorithm (SOTA)
+   * Fuzzy c-Means
+   
+* RECOMMENDATION ENGINES :
+   * Association Rules
+   * Collaborative Filtering
 
 
 ## 8-Data Visualization / Explore
